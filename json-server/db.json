@@ -1,0 +1,34 @@
+{
+	"products": [
+		{
+			"id": "1",
+			"name": " Samsung",
+			"brand": "Samsung",
+			"price": "500"
+		},
+		{
+			"id": "2",
+			"name": " Samsung A21",
+			"brand": "Samsung",
+			"price": "550"
+		},
+		{
+			"id": "3",
+			"name": " Samsung A22",
+			"brand": "Samsung",
+			"price": "575"
+		}
+	],
+	"users": [
+		{
+			"id": "1",
+			"name": "Ky",
+			"company": "HUST"
+		},
+		{
+			"id": "2",
+			"name": "Chinh",
+			"company": "HUST"
+		}
+	]
+}
