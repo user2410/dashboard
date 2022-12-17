@@ -7,7 +7,7 @@ npm run --prefix json-server serve &
 PIDBE=$!
 
 # start fe
-npm run --prefix react-admin serve &
+npm start --prefix react-admin &
 PIDFE=$!
 
 wait $PIDBE
